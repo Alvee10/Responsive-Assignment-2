@@ -5,12 +5,13 @@ body {
 }
 
 .nav-container {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     min-height: 50px;
     display: flex;
     align-items: center;
     background-color: white;
     max-width: 1200px;
+    
 }
 
 .logo-container{
@@ -37,7 +38,7 @@ body {
 }
 
 .nav-items-container {
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     font-size: 12px;
     width: 50%;
     display: flex;
